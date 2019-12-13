@@ -26,7 +26,7 @@
     overflow: hidden;
     background-size: cover;
     background-position: center;
-    background-image: url("../img/782506-1280x720.jpg");
+    background-image: url("./img/782506-1280x720.jpg");
 }
 
 
@@ -104,7 +104,7 @@ form
 	width: 70%;
 	height: 130px;
 	margin: 50px auto 10px auto;
-    background-image: url("../img/burger.jpg");
+    background-image: url("./img/burger.jpg");
 }
 
 .dish
